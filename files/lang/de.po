@@ -403,7 +403,7 @@ msgstr "Ihr habt in dieser Runde bereits einen Zauberspruch ausgesprochen."
 
 #, fuzzy
 msgid "That spell will have no effect!"
-msgstr "Dieser Zauber wird kein Auswirkunghaben!"
+msgstr "Dieser Zauber wird kein Auswirkung haben!"
 
 msgid "You may only summon one type of elemental per combat."
 msgstr "Ihr könnt nur eine Art von Wesen pro Kampf beschwören."
