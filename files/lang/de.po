@@ -403,7 +403,7 @@ msgstr "Ihr habt in dieser Runde bereits einen Zauberspruch ausgesprochen."
 
 #, fuzzy
 msgid "That spell will have no effect!"
-msgstr "Dieser Zauber wirkt sich auf niemanden aus!"
+msgstr "Dieser Zauber wird kein Auswirkunghaben!"
 
 msgid "You may only summon one type of elemental per combat."
 msgstr "Ihr könnt nur eine Art von Wesen pro Kampf beschwören."
@@ -419,8 +419,8 @@ msgid ""
 "The Moat reduces by -%{count} the defense skill of any unit and slows to "
 "half movement rate."
 msgstr ""
-"Der Burggraben reduziert die Verteidigungsfähigkeit jeder Einheit, die auf "
-"den tritt, um -%{count} und verlangsamt seine Bewegungsrate auf die Hälfte."
+"Der Burggraben reduziert die Verteidigungsfähigkeit jeder Einheit "
+"um -%{count} und verlangsamt seine Bewegungsrate auf die Hälfte."
 
 msgid "Speed: %{speed}"
 msgstr "Geschw.: %{speed}"
